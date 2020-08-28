@@ -1,0 +1,13 @@
+.main-cart{
+    display:flex;
+    margin-bottom:40px;
+    border:3px solid lightgray;
+    padding:20px
+    
+}
+.course-ditails{
+    margin-left:20px;
+}
+#buy-btn{
+    margin-left:350px;
+}

@@ -1,0 +1,14 @@
+.course-container{
+    display:flex;
+}
+.course-show{
+    width:70%;
+    margin-left:40px;
+}
+.course-cart{
+    border:1px solid lightgray;
+    padding:20px;
+    height: 200px;
+    margin-left:50px;
+    margin-top:10px;
+}

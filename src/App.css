@@ -1,5 +1,8 @@
 
-
+.App{
+  background-color: #212529;;
+  color: white;;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
